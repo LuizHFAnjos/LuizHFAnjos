@@ -10,8 +10,7 @@
 <img align="center" alt="Python" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img align="center" alt="Python" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> </div><br/>
 
-### Sempre em busca de mais conhecimentos e experiências.
-O sucesso é a consequência natural de se dedicar ao seu trabalho e ao aprendizado constante." - Robin Sharma.
+#### O sucesso é a consequência natural de se dedicar ao seu trabalho e ao aprendizado constante." - Robin Sharma.
 
 
 
