@@ -1,5 +1,5 @@
 ### Olá, eu sou o Henrique Anjos 👋
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-25b6b9264/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/target=”_blank”)](https://www.linkedin.com/in/luiz-henrique-25b6b9264/ )
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ohenrique_/)
 
 ![Henrique Anjos GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHFAnjos&show_icons=true&theme=radical)
