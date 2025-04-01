@@ -1,5 +1,7 @@
 ### Olá, eu sou o Henrique Anjos 👋
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/target=”_blank”)](https://www.linkedin.com/in/luiz-henrique-25b6b9264/ )
+<a href="https://www.linkedin.com/in/luiz-henrique-25b6b9264/">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ohenrique_/)
 
 ![Henrique Anjos GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHFAnjos&show_icons=true&theme=radical)
@@ -15,6 +17,8 @@
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> </div><br/>
 
 #### O sucesso é a consequência natural de se dedicar ao seu trabalho e ao aprendizado constante." - Robin Sharma.
+
+target=”_blank”
 
 
 
