@@ -17,8 +17,6 @@
 
 #### O sucesso é a consequência natural de se dedicar ao seu trabalho e ao aprendizado constante." - Robin Sharma.
 
-target=”_blank”
-
 
 
 
