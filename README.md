@@ -14,7 +14,7 @@
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-#### O sucesso é a consequência natural de se dedicar ao seu trabalho e ao aprendizado constante." - Robin Sharma.
+#### "O sucesso é a consequência natural de se dedicar ao seu trabalho e ao aprendizado constante." - Robin Sharma.
 
 
 
